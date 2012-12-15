@@ -60,7 +60,7 @@ fake_enum offers some methods to help you:
 
 `Status.to_a` will return an array of enums: `[1, 2, 3]`
 
-`Status.to_localized_a` will return an array of translated enums: `['Ative', 'Archived', 'Deleted']`
+`Status.to_localized_a` will return an array of translated enums: `['Active', 'Archived', 'Deleted']`
 
 `Status.to_localized_hash` will return a hash with translated enums: `{ "Active" => "1", "Archived" => "2", "Deleted" => "3" }`
 
