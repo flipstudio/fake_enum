@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = FakeEnum::VERSION
   gem.authors       = ["Flip Studio"]
   gem.email         = ["contato@flipstudio.net"]
-  gem.description   = "Gem description"
-  gem.summary       = "Gem summary"
+  gem.description   = "A gem which define enum classes with constants."
+  gem.summary       = "Define enum classes with constants."
   gem.homepage      = "https://github.com/flipstudio/fake_enum"
 
   gem.files         = `git ls-files`.split($/)
